@@ -7,7 +7,7 @@
 <body>
   <h1 class="animated-element" align = center>Hello, I'm Aaditya Baranwal</h1>
   <h2 class="animated-element" align = center>I build and break AI stuff @.@</h2>
-  <p class="animated-element" align = center>This GitHub profile reeks of Deep Learning & Computer Vision ! <br>Be Careful or you might take interest in a few ;) !!!</p>
+  <p class="animated-element" align = center>This GitHub profile reeks of Deep Learning & Computer Vision ! <br>Be Careful or you might take interest in a few projects !!!</p>
     <ul>
     <a href="https://www.instagram.com/__.aeternum.__/">
         <img src="https://img.shields.io/badge/-|%20%20__.aeternum.__%20|-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aaditya-baranwal-1b1b3a1b0/" alt="Linkedin">

@@ -4,20 +4,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>GitHub Profile Introduction</title>
-  <style>
-    @keyframes fadeIn {
-      0% {
-        opacity: 0;
-      }
-      100% {
-        opacity: 1;
-      }
-    }
-
-    .animated-element {
-      animation: fadeIn 1s ease-in-out;
-    }
-  </style>
 </head>
 <body>
   <h1 class="animated-element" align = center>Hello, I'm Aaditya Baranwal</h1>

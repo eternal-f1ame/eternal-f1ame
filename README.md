@@ -47,6 +47,6 @@
   </ul>
   
   <h2 class="animated-element">Contact</h2>
-  <p class="animated-element">Reach out to me at <a>baranwal.1@iitj.ac.in</a> ୧ʕ•̀ᴥ•́ʔ୨</p>
+  <p class="animated-element">Reach out to me at <u>baranwal.1@iitj.ac.in</u> ୧ʕ•̀ᴥ•́ʔ୨</p>
 </body>
 </html>

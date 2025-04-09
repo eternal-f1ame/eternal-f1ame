@@ -9,14 +9,14 @@
   <h2 class="animated-element" align = center>I build and break AI stuff @.@</h2>
   <p class="animated-element" align = center>This GitHub profile reeks of Deep Learning & Computer Vision (and a lil bit of anime :3)! <br>Be careful, or you might take an interest in a few projects !!!</p>
     <ul>
-    <a href="https://www.instagram.com/__.aeternum.__/">
-        <img src="https://img.shields.io/badge/-|%20%20__.aeternum.__%20|-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aaditya-baranwal-1b1b3a1b0/" alt="Linkedin">
+    <a href="https://www.instagram.com/sochastic/">
+        <img src="https://img.shields.io/badge/-|%20%20__.aeternum.__%20|-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aadityabaranwal/" alt="Linkedin">
     </a>
         <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
     </ul>
     <ul>
     <a href="https://www.linkedin.com/in/aadityabaranwal/">
-        <img src="https://img.shields.io/badge/-Aaditya%20Baranwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aaditya-baranwal-1b1b3a1b0/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-Aaditya%20Baranwal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aadityabaranwal/" alt="Linkedin">
     </a>
     </ul>
   

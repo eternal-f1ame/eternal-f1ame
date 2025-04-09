@@ -10,7 +10,7 @@
   <p class="animated-element" align = center>This GitHub profile reeks of Deep Learning & Computer Vision (and a lil bit of anime :3)! <br>Be careful, or you might take an interest in a few projects !!!</p>
     <ul>
     <a href="https://www.instagram.com/sochastic/">
-        <img src="https://img.shields.io/badge/-|%20%20__.aeternum.__%20|-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aadityabaranwal/" alt="Linkedin">
+        <img src="https://img.shields.io/badge/-|%20%20sochastic%20|-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.linkedin.com/in/aadityabaranwal/" alt="Linkedin">
     </a>
         <img src=assets/profile.png alt="Profile Picture" align = right height = 200>
     </ul>

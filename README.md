@@ -56,4 +56,4 @@ Currently pursuing a Ph.D. at **UCF**, I’ve previously engineered solutions at
 
 ---
 
-`finding creations between code and chaos.`  
+`finding creations between code and chaos`  

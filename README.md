@@ -38,41 +38,12 @@ Currently pursuing a Ph.D. at **UCF**, I’ve previously engineered solutions at
 
 ---
 
-### Previously At
-
-- **Siemens Energy** – Zero-shot hazard detection in industrial imagery using Foundation Models and VLMs  
-- **AlphaBake** – Garment-fitting pipelines with IP adapters + LoRA tuning on Stable Diffusion  
-- **Bosch** – Adaptation and enhancement of SAM for text prompts + segmentation  
-- **Mathrithms** – Created a BunnyCDN SDK with 75K+ downloads on PyPI
-
----
-
 ### Tech Stack
 
 - **Languages**: Python, C++, MATLAB, Shell, JS, SQL  
 - **Frameworks**: PyTorch, TensorFlow, ROS, OpenCV  
 - **Infra**: Docker, GCP, Git, Weights & Biases  
 - **Applied Theory**: ViTs, LoRA, Retrieval-Augmented Inference, PID, Diffusion Models
-
----
-
-### Academic Footprint
-
-- **Signals & Systems** TA – Taught 300+ students, led MATLAB instruction & evaluation  
-- **Visual Transformers in Biometrics** – Achieved 68% accuracy in zero-shot face verification  
-- **Founder** – RAID: Research & AI Development community at IIT Jodhpur  
-- **Organizer** – Aaftaab’24: Headed 50+ people in one of the largest literary fests
-
----
-
-### Highlights
-
-- ISI Rank 65 | GRE 320  
-- 1st – Michelin Mobility Challenge  
-- 4th – Samsung NLP Kaggle  
-- Top 7 – DRDO UAV Challenge among 23 IITs  
-- ABU Robocon: Perfect Score in '22  
-- Built 6+ production-grade research projects across robotics, vision, and generation
 
 ---
 
